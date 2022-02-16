@@ -1,2 +1,4 @@
 **/interview/bin/*.*
 **/.vs/*.*
+**/.csproj.user
+**/interview/obj/*.*
